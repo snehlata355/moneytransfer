@@ -22,5 +22,5 @@ Technologies
 3)Jetty Container (for Test and Demo app)
 4)Apache HTTP Client
 
-How to run
+How to run::
 Run the Main.java which makes the application ready.Application starts a jetty server on localhost port 8090
