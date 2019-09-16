@@ -12,3 +12,15 @@ requirement #2 and keep it simple and avoid heavy frameworks.
 6. The final result should be executable as a standalone program (should not require a
 pre-installed container/server).
 7. Demonstrate with tests that the API works as expected.
+
+
+A Java RESTful API for money transfers between users accounts
+
+Technologies
+JAX-RS API
+Log4j
+Jetty Container (for Test and Demo app)
+Apache HTTP Client
+
+How to run
+Run the Main.java which makes the application ready.Application starts a jetty server on localhost port 8090
