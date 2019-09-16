@@ -17,10 +17,10 @@ pre-installed container/server).
 A Java RESTful API for money transfers between users accounts
 
 Technologies
-JAX-RS API
-Log4j
-Jetty Container (for Test and Demo app)
-Apache HTTP Client
+1)JAX-RS API
+2)Log4j
+3)Jetty Container (for Test and Demo app)
+4)Apache HTTP Client
 
 How to run
 Run the Main.java which makes the application ready.Application starts a jetty server on localhost port 8090
